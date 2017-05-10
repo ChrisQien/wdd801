@@ -37,7 +37,7 @@
 "msrp": 299,
 "salePrice": 199.99,
 "thumbnailImage": "http://i.walmartimages.com/i/p/00/88/59/09/49/0088590949724_100X100.jpg",
-"bundle": false,
+"bundle": true,
 "availableOnline": true
 },
 
